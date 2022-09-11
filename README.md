@@ -1,2 +1,4 @@
-# Gerenciamento-de-Usu-rios
-Gerenciamento de Usuários
+Projeto feito no curso de Javascript Avançado
+
+- Orientação a Objetos
+
