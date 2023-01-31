@@ -1,4 +1,5 @@
-Projeto feito no curso de Javascript Avançado
+Developed as final project from an advanced javascript course.
 
-- Orientação a Objetos
-
+- Intruduction to concepts of object oriented programming 
+- Creation of methods, classes and atributtes for read, delete, create and edit datas
+- 
